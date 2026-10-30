@@ -1,0 +1,67 @@
+{
+  "agent": "proposed",
+  "config": {
+    "name": "proposed",
+    "max_step": 0.3,
+    "step_fracs": [
+      1.0,
+      0.5,
+      0.25
+    ],
+    "n_dirs": 16,
+    "horizon": 8,
+    "max_expansions": 100,
+    "heuristic_weight": 1.2,
+    "samples": 8,
+    "grid": 0.02,
+    "use_hazards": true,
+    "predict_motion": true,
+    "monster_margin": 0.05,
+    "fire_margin": 0.035,
+    "monster_sigma": 0.1,
+    "contact_buffer": 0.01,
+    "hard_steps": 3,
+    "late_contact_penalty": 3.0,
+    "risk_weight": 4.0,
+    "dist_weight": 0.2,
+    "use_tour": true,
+    "two_opt": true,
+    "alt_goals": 3,
+    "defer_seconds": 1.0,
+    "stuck_seconds": 4.0,
+    "stagnation_relax": 0.25
+  },
+  "episodes": 1200,
+  "success_rate_pct": 100.0,
+  "levels_always_won": 24,
+  "completion_time_mean_s": 4.3,
+  "remaining_life_mean_pct": 99.52,
+  "plan_ms_mean": 5.89,
+  "plan_ms_max": 191.55,
+  "ablation": [
+    {
+      "agent": "proposed",
+      "success_rate": 100.0,
+      "completion_time_mean": 4.3,
+      "remaining_life_mean": 99.52
+    },
+    {
+      "agent": "proposed_no_hazard",
+      "success_rate": 92.08,
+      "completion_time_mean": 3.88,
+      "remaining_life_mean": 67.71
+    },
+    {
+      "agent": "proposed_static_hazard",
+      "success_rate": 99.75,
+      "completion_time_mean": 4.41,
+      "remaining_life_mean": 92.67
+    },
+    {
+      "agent": "proposed_no_tour",
+      "success_rate": 100.0,
+      "completion_time_mean": 4.43,
+      "remaining_life_mean": 99.63
+    }
+  ]
+}

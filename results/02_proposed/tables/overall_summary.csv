@@ -1,0 +1,2 @@
+agent,episodes,success_rate,death_rate,timeout_rate,avg_coin_pct,completion_time_mean,completion_time_median,episode_time_mean,remaining_life_mean,near_miss_pct_mean,racr_mean,path_length_mean,plan_ms_mean
+proposed,1200,100.0,0.0,0.0,100.0,4.304025,4.217,4.304025,99.51539166666667,3.2009416666666666,3.1849564999999997,3.3992016666666665,5.894345

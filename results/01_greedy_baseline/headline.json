@@ -1,0 +1,32 @@
+{
+  "agent": "greedy",
+  "episodes": 1200,
+  "success_rate_pct": 80.17,
+  "death_rate_pct": 19.83,
+  "timeout_rate_pct": 0.0,
+  "levels_always_won": 4,
+  "completion_time_mean_s": 5.23,
+  "remaining_life_mean_pct": 58.51,
+  "worst_levels": [
+    {
+      "level": 18,
+      "success_rate": 20.0
+    },
+    {
+      "level": 22,
+      "success_rate": 38.0
+    },
+    {
+      "level": 24,
+      "success_rate": 44.0
+    },
+    {
+      "level": 21,
+      "success_rate": 48.0
+    },
+    {
+      "level": 23,
+      "success_rate": 68.0
+    }
+  ]
+}

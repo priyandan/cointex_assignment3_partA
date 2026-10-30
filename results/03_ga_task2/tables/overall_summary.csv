@@ -1,0 +1,2 @@
+agent,episodes,success_rate,death_rate,timeout_rate,avg_coin_pct,completion_time_mean,completion_time_median,episode_time_mean,remaining_life_mean,near_miss_pct_mean,racr_mean,path_length_mean,plan_ms_mean
+ga_task2,1200,100.0,0.0,0.0,100.0,6.994549166666667,6.217,6.994549166666667,93.27816666666666,1.6198583333333332,2.0595754166666667,4.977439166666667,16.26015166666667

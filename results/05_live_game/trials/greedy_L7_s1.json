@@ -1,0 +1,14 @@
+{
+  "agent": "greedy",
+  "level": 7,
+  "seed": 1,
+  "outcome": "won",
+  "won": true,
+  "coins_collected": 10,
+  "coins_total": 10,
+  "coin_pct": 100.0,
+  "remaining_life": 100.0,
+  "seconds": 4.38,
+  "moves": 0,
+  "mean_plan_ms": null
+}

@@ -1,0 +1,4 @@
+agent,trials,success_rate,completion_time_mean,remaining_life_mean
+greedy,24,70.8,6.93,42.1
+ga_task2,24,100.0,12.37,87.4
+proposed,24,100.0,7.45,90.4

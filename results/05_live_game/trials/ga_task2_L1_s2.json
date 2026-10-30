@@ -1,0 +1,14 @@
+{
+  "agent": "ga_task2",
+  "level": 1,
+  "seed": 2,
+  "outcome": "won",
+  "won": true,
+  "coins_collected": 5,
+  "coins_total": 5,
+  "coin_pct": 100.0,
+  "remaining_life": 100.0,
+  "seconds": 4.14,
+  "moves": 13,
+  "mean_plan_ms": 32.41
+}

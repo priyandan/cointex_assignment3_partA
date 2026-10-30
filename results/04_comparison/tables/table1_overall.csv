@@ -1,0 +1,4 @@
+,episodes,success_rate,levels_always_won,levels_majority_won,death_rate,timeout_rate,completion_time_mean,completion_time_median,remaining_life_mean,racr_mean,near_miss_pct_mean,path_length_mean,plan_ms_mean
+Original greedy,1200,80.17,4,20,19.83,0.0,5.23,5.02,58.51,1.49,7.62,3.27,0.03
+GA (Task 2),1200,100.0,24,24,0.0,0.0,6.99,6.22,93.28,2.06,1.62,4.98,16.26
+Proposed (RH-STA*),1200,100.0,24,24,0.0,0.0,4.3,4.22,99.52,3.18,3.2,3.4,5.89

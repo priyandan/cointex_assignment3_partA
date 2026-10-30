@@ -1,0 +1,14 @@
+{
+  "agent": "proposed",
+  "level": 22,
+  "seed": 0,
+  "outcome": "won",
+  "won": true,
+  "coins_collected": 20,
+  "coins_total": 20,
+  "coin_pct": 100.0,
+  "remaining_life": 80.0,
+  "seconds": 10.19,
+  "moves": 36,
+  "mean_plan_ms": 22.44
+}

@@ -1,0 +1,4 @@
+agent,mean_time,ci95_low,ci95_high
+greedy,5.228,5.122,5.345
+ga_task2,6.995,6.818,7.184
+proposed,4.304,4.239,4.367

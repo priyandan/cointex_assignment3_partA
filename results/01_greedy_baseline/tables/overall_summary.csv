@@ -1,0 +1,2 @@
+agent,episodes,success_rate,death_rate,timeout_rate,avg_coin_pct,completion_time_mean,completion_time_median,episode_time_mean,remaining_life_mean,near_miss_pct_mean,racr_mean,path_length_mean,plan_ms_mean
+greedy,1200,80.16666666666666,19.833333333333332,0.0,94.029725,5.228371101871102,5.017,5.192536666666666,58.51356666666666,7.6189,1.493857,3.2652216666666667,0.030211666666666664

@@ -1,0 +1,9 @@
+{
+  "agent": "ga_task2",
+  "episodes": 1200,
+  "success_rate_pct": 100.0,
+  "levels_always_won": 24,
+  "completion_time_mean_s": 6.99,
+  "remaining_life_mean_pct": 93.28,
+  "plan_ms_mean": 16.26
+}
